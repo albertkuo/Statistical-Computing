@@ -1,0 +1,9 @@
+Package: Homework3Kuo
+Title: Homework3Kuo
+Description: A package I wrote for my statisical computing class that handles longitudinal data with objects.
+Version: 0.1-1
+License: MIT + file LICENSE
+Author: Albert Kuo <albertkuo@jhu.edu>
+Maintainer: Albert Kuo <albertkuo@jhu.edu>
+Imports: dplyr, tidyr, methods
+RoxygenNote: 6.0.1
